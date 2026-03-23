@@ -40,7 +40,7 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Charlex123/nostra-sdk-python"
+Homepage = "https://github.com/Charlex123/nostrahealthai-sdk-python"
 
 [tool.setuptools]
 packages = ["nostra_healthai"]
